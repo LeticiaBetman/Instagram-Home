@@ -32,6 +32,7 @@ A estilização foi feita para recriar o design original do Instagram, incluindo
 
 📷 **Captura de Tela**
 
+Home_Instagram/img/screenshor_web_instagram.png
 
 ---
 
